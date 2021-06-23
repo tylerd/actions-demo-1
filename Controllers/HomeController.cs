@@ -25,6 +25,7 @@ namespace actions_demo_1.Controllers
 
         public IActionResult Privacy()
         {
+            //TODO: Add new privacy route
             return View();
         }
 
