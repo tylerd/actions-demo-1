@@ -11,6 +11,8 @@ namespace actions_demo_1
 {
     public class Program
     {
+
+        //TODO: Add Azure AD authentication to solution
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
